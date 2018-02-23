@@ -5,7 +5,7 @@
   <groupId>standard.jenkins.com</groupId>
   <artifactId>jenkins-rest-api-client-compile</artifactId>
   <version>1.0.0</version>
-    <packaging>pom</packaging>
+  <packaging>pom</packaging>
     
   <modules>
     <module>jenkins-rest-api-client-compile-ear</module>
